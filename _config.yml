@@ -1,10 +1,9 @@
-title: Hyde
+title: Jieun Heo
 description: >-
-  Build your own portfolio <br>
-  with Hyde.
-url: "https://chemistryx.me"
-github: ChemistryX
-email: changeme@chemistryx.me
+  Jieun
+url: "https://ggheo.github.io"
+github: GGheo 
+email: jieunheo@alum.calarts.edu
 google_analytics: <YOUR UA TOKEN>
 
 exclude: [README.md, Gemfile, Gemfile.lock]
