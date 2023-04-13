@@ -1,6 +1,5 @@
 --
-title: Jieun
+title: untitled
 tags: [portfolio, blog]
-author: Jieun
-image:
+author: unknown
 --
