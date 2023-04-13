@@ -1,5 +1,5 @@
 ---
 title: Jieun's
-identifier: jieun
+identifier: 
 description: blog & portfolio
 ---
